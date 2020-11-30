@@ -1,5 +1,5 @@
 "# Syam-millis-program" 
-This program is made to take advantage of mailing list () in executing a function.
+This program is made to take advantage of millis() in executing a function.
 
 millis(), on the other hand, is a function that returns the amount of milliseconds that have passed since program start.
 
